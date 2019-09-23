@@ -18,4 +18,4 @@ $y=10.5;
 echo "I love ".$txt1."!"."\n";
 //Sum of two Variables
 echo $x+$y."\n";
-
+?>
